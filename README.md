@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
-<h3 align="center">I tell stories from Data.</h3>
+<h3 align="center">I have relationship with Data.</h3>
 
 <img align="right" alt="data analytics" width="400" src="https://miro.medium.com/v2/resize:fit:679/0*tD5kEC2JYcKHH0zO.gif">
 
