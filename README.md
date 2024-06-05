@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivxm03&label=Profile%20views&color=0e75b6&style=flat" alt="shivxm03" /> </p>
 
-- 🔭 I’m currently working on [ASAPH EcoHub](https://lnkd.in/gNY6f5nt)
+- 🔭 I’m currently working on [Hands-On with Linux and AWS]
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivxm03](https://github.com/shivxm03)
 
