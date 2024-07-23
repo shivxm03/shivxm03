@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivxm03&label=Profile%20views&color=0e75b6&style=flat" alt="shivxm03" /> </p>
 
-- 🔭 I’m currently working [**Hands-on with enhancing DevOps workflows and automating infrastructure management**]
+- 🔭 I’m currently working **Hands-on with enhancing DevOps workflows and automating infrastructure management**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivxm03](https://github.com/shivxm03)
 
