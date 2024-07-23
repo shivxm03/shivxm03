@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">Empowering Efficient and Scalable Cloud Deployments through DevOps Excellence.</h3>
 
-<img align="right" alt="data analytics" width="400" src="https://github.com/user-attachments/assets/1dc95f86-f6cc-4d87-a562-1706eaf8fe57">
+<img align="right" alt="DevOps Engineer" width="400" height="260" src="https://github.com/user-attachments/assets/1dc95f86-f6cc-4d87-a562-1706eaf8fe57">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivxm03&label=Profile%20views&color=0e75b6&style=flat" alt="shivxm03" /> </p>
 
