@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivxm03](https://github.com/shivxm03)
 
-- 📫 How to reach me **shivamrpatel10@gmail.com**
+- 📫 How to reach me **shivampatel03p@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shivam-patel03/](https://www.linkedin.com/in/shivam-patel03/)
 
